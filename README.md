@@ -1,6 +1,6 @@
 [![MasterHead](https://digital-dividend.se/wp-content/uploads/2023/06/Flutter-App-Development-1536x520.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ebuka Chikodinaka</h1>
-<h3 align="center">A passionate mobile app developer from Nigeria</h3>
+<h3 align="center">A passionate mobile app developer from West Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Netro Exchange (a cryptocurrency wallet)**
