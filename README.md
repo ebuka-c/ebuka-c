@@ -1,4 +1,4 @@
-[![MasterHead](https://digital-dividend.se/wp-content/uploads/2023/06/Flutter-App-Development-1536x520.png)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQFjeEctU1O0tQ/profile-displaybackgroundimage-shrink_350_1400/0/1717524793193?e=1723680000&v=beta&t=njJzP2LviZmWE9TZFfyhr4sRSzLhAQyx64vBIGu5p1I)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ebuka Chikodinaka</h1>
 <h3 align="center">A passionate mobile app developer from West Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
