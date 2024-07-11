@@ -3,9 +3,9 @@
 <h3 align="center">A passionate mobile app developer from West Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **ConvertNG (a cryptocurrency exchange)**
+- 🔭 I’m currently working on **Boles Mobile (an modern inventory mobile application for Boles Enterprises)**
 
-- 🌱 I’m currently learning **Java, Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ebukaachi10@gmail.com**
 
-- ⚡ Fun fact **Precise perfectionist with comedic flair.**
+- ⚡ Fun fact **Loves football and martial arts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
