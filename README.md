@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Boles Mobile (an modern inventory mobile application for Boles Enterprises)**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, Cairo**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
