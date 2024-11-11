@@ -3,7 +3,7 @@
 <h3 align="center">A passionate mobile app developer from West Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Boles Mobile (an modern inventory mobile application for Boles Enterprises)**
+- 🔭 I’m currently working on **Saletick mobile app**
 
 - 🌱 I’m currently learning **Kotlin, Cairo**
 
@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **ebukaachi10@gmail.com**
 
-- ⚡ Fun fact **Loves football and martial arts.**
-
+- ⚡ Fun fact **black belt in shadow boxing**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@ebukac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ebukac" height="30" width="40" /></a>
