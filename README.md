@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Saletick mobile app**
 
-- 🌱 I’m currently learning **Kotlin, Cairo**
+- 🌱 I’m currently learning **Starknet, Cairo**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **Flutter, Cairo projects**
 
-- 💬 Ask me about **Flutter, Android, iOS, MVVM, Web Services (REST)**
+- 💬 Ask me about **Flutter, Starknet, Blockchain, App development**
 
 - 📫 How to reach me **ebukaachi10@gmail.com**
 
