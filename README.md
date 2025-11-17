@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ebukaachi10@gmail.com**
 
-- ⚡ Fun fact **black belt in shadow boxing**
+- ⚡ Fun fact **boxing**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@ebukac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ebukac" height="30" width="40" /></a>
