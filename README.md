@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Andromedia mobile app**
 
-- 🌱 I’m currently learning **Starknet, Cairo**
+- 🌱 I’m currently learning **Cairo**
 
 - 👯 I’m looking to collaborate on **Flutter, Blockchain solutions**
 
