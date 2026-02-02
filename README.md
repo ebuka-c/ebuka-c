@@ -1,19 +1,18 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQFjeEctU1O0tQ/profile-displaybackgroundimage-shrink_350_1400/0/1717524793193?e=1723680000&v=beta&t=njJzP2LviZmWE9TZFfyhr4sRSzLhAQyx64vBIGu5p1I)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ebuka Chikodinaka</h1>
-<h3 align="center">A passionate mobile app developer from West Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Andromedia mobile app**
 
 - 🌱 I’m currently learning **Starknet, Cairo**
 
-- 👯 I’m looking to collaborate on **Flutter, Cairo projects**
+- 👯 I’m looking to collaborate on **Flutter, Blockchain solutions**
 
-- 💬 Ask me about **Flutter, Starknet, Blockchain, App development**
+- 💬 Ask me about **Starknet, Blockchain, Flutter**
 
 - 📫 How to reach me **ebukaachi10@gmail.com**
 
-- ⚡ Fun fact **boxing**
+- ⚡ Fun fact **boxer**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@ebukac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ebukac" height="30" width="40" /></a>
